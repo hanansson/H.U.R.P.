@@ -14,6 +14,9 @@ public class DateComparator implements Comparator<Produkt> {
             return 0;
             //asdsadas
             //blubbbuubuublsd
+            //Niels stinkt
+            //Svenja auch
+            
         } else {
             return o1.getDatum().getValue().compareTo(o2.getDatum().getValue());
         }
