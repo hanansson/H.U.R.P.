@@ -13,6 +13,7 @@ public class DateComparator implements Comparator<Produkt> {
         if (o1.getDatum().getValue() == null || o2.getDatum().getValue() == null) {
             return 0;
             //asdsadas
+            //blubbbuubuublsd
         } else {
             return o1.getDatum().getValue().compareTo(o2.getDatum().getValue());
         }
